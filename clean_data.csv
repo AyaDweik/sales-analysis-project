@@ -1,0 +1,7 @@
+order_id,customer,product,price,quantity,category,total_revenue
+1001,Aya,lipstick,10.0,2.0,makeup,20.0
+1002,Omar,eyeliner,7.0,3.0,makeup,21.0
+1003,Aya,foundation,25.0,1.0,makeup,25.0
+1004,Lina,lipstick,10.0,0.0,makeup,0.0
+1005,unknown,perfume,40.0,1.0,fragrance,40.0
+1006,Omar,foundation,18.4,2.0,makeup,36.8
