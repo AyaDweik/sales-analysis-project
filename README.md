@@ -21,7 +21,7 @@ Sales_Analysis.ipynb – Full project notebook
 
 cleaned_sales.csv – Final cleaned dataset
 
-visualizations/ – PNG charts generated in the analysis
+visualizations PNG charts generated in the analysis
 
 # Skills Demonstrated
 - Data Cleaning
